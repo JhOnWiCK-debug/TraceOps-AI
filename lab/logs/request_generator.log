@@ -1,0 +1,34 @@
+[2026-09-03T17:37:11.315498+00:00] request_id=REQ-0000; exception=<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+[2026-09-03T17:37:13.561483+00:00] request_id=REQ-0001; exception=<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+[2026-09-03T17:37:15.803592+00:00] request_id=REQ-0002; exception=<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+[2026-09-03T17:37:18.059418+00:00] request_id=REQ-0003; exception=<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+[2026-09-03T17:37:20.318762+00:00] request_id=REQ-0004; exception=<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+[2026-09-03T17:37:24.080747+00:00] request_id=REQ-0000; exception=<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+[2026-09-03T17:37:26.332870+00:00] request_id=REQ-0001; exception=<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+[2026-09-03T17:37:28.579503+00:00] request_id=REQ-0002; exception=<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+[2026-09-03T17:37:30.822708+00:00] request_id=REQ-0003; exception=<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+[2026-09-03T17:37:33.072907+00:00] request_id=REQ-0004; exception=<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+[2026-09-03T17:38:05.425878+00:00] request_id=REQ-0000; status=200; response={'status': 'success', 'service': 'checkout', 'request_id': 'REQ-0000', 'payment_status': 'success', 'latency_ms': 52.72}
+[2026-09-03T17:38:05.667590+00:00] request_id=REQ-0001; status=200; response={'status': 'success', 'service': 'checkout', 'request_id': 'REQ-0001', 'payment_status': 'success', 'latency_ms': 17.4}
+[2026-09-03T17:38:05.900411+00:00] request_id=REQ-0002; status=200; response={'status': 'success', 'service': 'checkout', 'request_id': 'REQ-0002', 'payment_status': 'success', 'latency_ms': 28.31}
+[2026-09-03T17:38:06.147967+00:00] request_id=REQ-0003; status=200; response={'status': 'success', 'service': 'checkout', 'request_id': 'REQ-0003', 'payment_status': 'success', 'latency_ms': 19.61}
+[2026-09-03T17:38:06.357296+00:00] request_id=REQ-0004; status=200; response={'status': 'success', 'service': 'checkout', 'request_id': 'REQ-0004', 'payment_status': 'success', 'latency_ms': 5.04}
+[2026-09-03T17:38:07.199349+00:00] request_id=REQ-0000; exception=HTTP Error 500: Internal Server Error
+[2026-09-03T17:38:07.425750+00:00] request_id=REQ-0001; exception=HTTP Error 500: Internal Server Error
+[2026-09-03T17:38:07.633734+00:00] request_id=REQ-0002; exception=HTTP Error 500: Internal Server Error
+[2026-09-03T17:38:07.858031+00:00] request_id=REQ-0003; exception=HTTP Error 500: Internal Server Error
+[2026-09-03T17:38:08.065604+00:00] request_id=REQ-0004; exception=HTTP Error 500: Internal Server Error
+[2026-09-03T18:04:02.903245+00:00] request_id=REQ-0000; status=200; response={'status': 'success', 'service': 'checkout', 'request_id': 'REQ-0000', 'payment_status': 'success', 'latency_ms': 112.44}
+[2026-09-03T18:04:03.032101+00:00] request_id=REQ-0001; status=200; response={'status': 'success', 'service': 'checkout', 'request_id': 'REQ-0001', 'payment_status': 'success', 'latency_ms': 15.15}
+[2026-09-03T18:04:03.158264+00:00] request_id=REQ-0002; status=200; response={'status': 'success', 'service': 'checkout', 'request_id': 'REQ-0002', 'payment_status': 'success', 'latency_ms': 16.21}
+[2026-09-03T18:04:05.359717+00:00] request_id=REQ-0000; exception=HTTP Error 500: Internal Server Error
+[2026-09-03T18:04:05.479098+00:00] request_id=REQ-0001; exception=HTTP Error 500: Internal Server Error
+[2026-09-03T18:04:05.598555+00:00] request_id=REQ-0002; exception=HTTP Error 500: Internal Server Error
+[2026-09-03T18:04:05.718663+00:00] request_id=REQ-0003; exception=HTTP Error 500: Internal Server Error
+[2026-09-03T18:04:05.840660+00:00] request_id=REQ-0004; exception=HTTP Error 500: Internal Server Error
+[2026-09-03T18:16:53.617813+00:00] request_id=REQ-0000; status=200; response={'status': 'success', 'service': 'checkout', 'request_id': 'REQ-0000', 'payment_status': 'success', 'latency_ms': 125.13}
+[2026-09-03T18:16:53.745689+00:00] request_id=REQ-0001; status=200; response={'status': 'success', 'service': 'checkout', 'request_id': 'REQ-0001', 'payment_status': 'success', 'latency_ms': 16.6}
+[2026-09-03T18:16:55.588813+00:00] request_id=REQ-0000; exception=HTTP Error 500: Internal Server Error
+[2026-09-03T18:16:55.722136+00:00] request_id=REQ-0001; exception=HTTP Error 500: Internal Server Error
+[2026-09-03T18:16:55.843601+00:00] request_id=REQ-0002; exception=HTTP Error 500: Internal Server Error
+[2026-09-03T18:16:55.966660+00:00] request_id=REQ-0003; exception=HTTP Error 500: Internal Server Error

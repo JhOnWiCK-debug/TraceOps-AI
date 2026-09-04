@@ -1,0 +1,16 @@
+[REDIS_MOCK] Starting mock Redis on 127.0.0.1:6380
+[REDIS_MOCK] Redis mock is ready.
+[REDIS_MOCK] Received command: PING
+[REDIS_MOCK] Received command: PING
+[REDIS_MOCK] Received command: PING
+[REDIS_MOCK] Received command: PING
+[REDIS_MOCK] Received command: PING
+[REDIS_MOCK] run_id=RUN-83C7DD39C918; incident_id=INC-001; Starting mock Redis on 127.0.0.1:6380
+[REDIS_MOCK] run_id=RUN-83C7DD39C918; incident_id=INC-001; Redis mock is ready.
+[REDIS_MOCK] run_id=RUN-83C7DD39C918; incident_id=INC-001; Received command: PING
+[REDIS_MOCK] run_id=RUN-83C7DD39C918; incident_id=INC-001; Received command: PING
+[REDIS_MOCK] run_id=RUN-83C7DD39C918; incident_id=INC-001; Received command: PING
+[REDIS_MOCK] run_id=RUN-6FCF7C075247; incident_id=INC-001; Starting mock Redis on 127.0.0.1:6380
+[REDIS_MOCK] run_id=RUN-6FCF7C075247; incident_id=INC-001; Redis mock is ready.
+[REDIS_MOCK] run_id=RUN-6FCF7C075247; incident_id=INC-001; Received command: PING
+[REDIS_MOCK] run_id=RUN-6FCF7C075247; incident_id=INC-001; Received command: PING

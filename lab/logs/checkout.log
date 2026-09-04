@@ -1,0 +1,27 @@
+[2026-09-03T17:38:05.290398+00:00] Checkout service started on 127.0.0.1:8001
+[2026-09-03T17:38:05.424131+00:00] Checkout success for request_id=REQ-0000; latency_ms=52.72; payment_status=success
+[2026-09-03T17:38:05.665724+00:00] Checkout success for request_id=REQ-0001; latency_ms=17.4; payment_status=success
+[2026-09-03T17:38:05.899204+00:00] Checkout success for request_id=REQ-0002; latency_ms=28.31; payment_status=success
+[2026-09-03T17:38:06.146683+00:00] Checkout success for request_id=REQ-0003; latency_ms=19.61; payment_status=success
+[2026-09-03T17:38:06.355927+00:00] Checkout success for request_id=REQ-0004; latency_ms=5.04; payment_status=success
+[2026-09-03T17:38:07.197851+00:00] Checkout request failed for request_id=REQ-0000; error=HTTP Error 503: Service Unavailable; latency_ms=32.45
+[2026-09-03T17:38:07.424373+00:00] Checkout request failed for request_id=REQ-0001; error=HTTP Error 503: Service Unavailable; latency_ms=5.05
+[2026-09-03T17:38:07.632203+00:00] Checkout request failed for request_id=REQ-0002; error=HTTP Error 503: Service Unavailable; latency_ms=3.45
+[2026-09-03T17:38:07.856810+00:00] Checkout request failed for request_id=REQ-0003; error=HTTP Error 503: Service Unavailable; latency_ms=4.39
+[2026-09-03T17:38:08.064518+00:00] Checkout request failed for request_id=REQ-0004; error=HTTP Error 503: Service Unavailable; latency_ms=3.93
+[2026-09-03T18:04:02.507111+00:00] run_id=RUN-83C7DD39C918; incident_id=INC-001; Checkout service started on 127.0.0.1:8001
+[2026-09-03T18:04:02.899616+00:00] run_id=RUN-83C7DD39C918; incident_id=INC-001; Checkout success for request_id=REQ-0000; latency_ms=112.44; payment_status=success
+[2026-09-03T18:04:03.029187+00:00] run_id=RUN-83C7DD39C918; incident_id=INC-001; Checkout success for request_id=REQ-0001; latency_ms=15.15; payment_status=success
+[2026-09-03T18:04:03.153860+00:00] run_id=RUN-83C7DD39C918; incident_id=INC-001; Checkout success for request_id=REQ-0002; latency_ms=16.21; payment_status=success
+[2026-09-03T18:04:05.355572+00:00] run_id=RUN-83C7DD39C918; incident_id=INC-001; Checkout request failed for request_id=REQ-0000; error=HTTP Error 503: Service Unavailable; latency_ms=35.02
+[2026-09-03T18:04:05.476288+00:00] run_id=RUN-83C7DD39C918; incident_id=INC-001; Checkout request failed for request_id=REQ-0001; error=HTTP Error 503: Service Unavailable; latency_ms=10.1
+[2026-09-03T18:04:05.595613+00:00] run_id=RUN-83C7DD39C918; incident_id=INC-001; Checkout request failed for request_id=REQ-0002; error=HTTP Error 503: Service Unavailable; latency_ms=10.41
+[2026-09-03T18:04:05.715953+00:00] run_id=RUN-83C7DD39C918; incident_id=INC-001; Checkout request failed for request_id=REQ-0003; error=HTTP Error 503: Service Unavailable; latency_ms=11.19
+[2026-09-03T18:04:05.836493+00:00] run_id=RUN-83C7DD39C918; incident_id=INC-001; Checkout request failed for request_id=REQ-0004; error=HTTP Error 503: Service Unavailable; latency_ms=11.92
+[2026-09-03T18:16:53.316274+00:00] run_id=RUN-6FCF7C075247; incident_id=INC-001; Checkout service started on 127.0.0.1:8001
+[2026-09-03T18:16:53.611543+00:00] run_id=RUN-6FCF7C075247; incident_id=INC-001; Checkout success for request_id=REQ-0000; latency_ms=125.13; payment_status=success
+[2026-09-03T18:16:53.741136+00:00] run_id=RUN-6FCF7C075247; incident_id=INC-001; Checkout success for request_id=REQ-0001; latency_ms=16.6; payment_status=success
+[2026-09-03T18:16:55.585386+00:00] run_id=RUN-6FCF7C075247; incident_id=INC-001; Checkout request failed for request_id=REQ-0000; error=HTTP Error 503: Service Unavailable; latency_ms=51.16
+[2026-09-03T18:16:55.719410+00:00] run_id=RUN-6FCF7C075247; incident_id=INC-001; Checkout request failed for request_id=REQ-0001; error=HTTP Error 503: Service Unavailable; latency_ms=20.05
+[2026-09-03T18:16:55.839071+00:00] run_id=RUN-6FCF7C075247; incident_id=INC-001; Checkout request failed for request_id=REQ-0002; error=HTTP Error 503: Service Unavailable; latency_ms=9.45
+[2026-09-03T18:16:55.963542+00:00] run_id=RUN-6FCF7C075247; incident_id=INC-001; Checkout request failed for request_id=REQ-0003; error=HTTP Error 503: Service Unavailable; latency_ms=12.61

@@ -1,0 +1,41 @@
+[2026-09-03T17:38:05.302197+00:00] Payment service started on 127.0.0.1:8002
+[2026-09-03T17:38:05.422339+00:00] Payment success: request_id=REQ-0000; latency_ms=13.13
+[2026-09-03T17:38:05.664293+00:00] Payment success: request_id=REQ-0001; latency_ms=14.54
+[2026-09-03T17:38:05.897928+00:00] Payment success: request_id=REQ-0002; latency_ms=3.29
+[2026-09-03T17:38:06.145149+00:00] Payment success: request_id=REQ-0003; latency_ms=2.64
+[2026-09-03T17:38:06.354491+00:00] Payment success: request_id=REQ-0004; latency_ms=2.44
+[2026-09-03T17:38:07.196287+00:00] Redis marked down in fault state; refusing payment operation.
+[2026-09-03T17:38:07.196932+00:00] Payment failure: Redis unavailable; latency_ms=12.4
+[2026-09-03T17:38:07.421801+00:00] Redis marked down in fault state; refusing payment operation.
+[2026-09-03T17:38:07.423109+00:00] Payment failure: Redis unavailable; latency_ms=1.8
+[2026-09-03T17:38:07.630476+00:00] Redis marked down in fault state; refusing payment operation.
+[2026-09-03T17:38:07.631132+00:00] Payment failure: Redis unavailable; latency_ms=1.07
+[2026-09-03T17:38:07.854853+00:00] Redis marked down in fault state; refusing payment operation.
+[2026-09-03T17:38:07.855612+00:00] Payment failure: Redis unavailable; latency_ms=1.42
+[2026-09-03T17:38:08.062164+00:00] Redis marked down in fault state; refusing payment operation.
+[2026-09-03T17:38:08.063400+00:00] Payment failure: Redis unavailable; latency_ms=1.7
+[2026-09-03T18:04:02.419506+00:00] run_id=RUN-83C7DD39C918; incident_id=INC-001; Payment service started on 127.0.0.1:8002
+[2026-09-03T18:04:02.895926+00:00] run_id=RUN-83C7DD39C918; incident_id=INC-001; Payment success: request_id=REQ-0000; latency_ms=9.31
+[2026-09-03T18:04:03.025634+00:00] run_id=RUN-83C7DD39C918; incident_id=INC-001; Payment success: request_id=REQ-0001; latency_ms=7.35
+[2026-09-03T18:04:03.150216+00:00] run_id=RUN-83C7DD39C918; incident_id=INC-001; Payment success: request_id=REQ-0002; latency_ms=8.99
+[2026-09-03T18:04:05.347732+00:00] run_id=RUN-83C7DD39C918; incident_id=INC-001; Redis marked down in fault state; refusing payment operation.
+[2026-09-03T18:04:05.350314+00:00] run_id=RUN-83C7DD39C918; incident_id=INC-001; Payment failure: Redis unavailable; latency_ms=26.45
+[2026-09-03T18:04:05.471412+00:00] run_id=RUN-83C7DD39C918; incident_id=INC-001; Redis marked down in fault state; refusing payment operation.
+[2026-09-03T18:04:05.473759+00:00] run_id=RUN-83C7DD39C918; incident_id=INC-001; Payment failure: Redis unavailable; latency_ms=3.27
+[2026-09-03T18:04:05.589633+00:00] run_id=RUN-83C7DD39C918; incident_id=INC-001; Redis marked down in fault state; refusing payment operation.
+[2026-09-03T18:04:05.592123+00:00] run_id=RUN-83C7DD39C918; incident_id=INC-001; Payment failure: Redis unavailable; latency_ms=3.69
+[2026-09-03T18:04:05.710173+00:00] run_id=RUN-83C7DD39C918; incident_id=INC-001; Redis marked down in fault state; refusing payment operation.
+[2026-09-03T18:04:05.712491+00:00] run_id=RUN-83C7DD39C918; incident_id=INC-001; Payment failure: Redis unavailable; latency_ms=3.16
+[2026-09-03T18:04:05.830305+00:00] run_id=RUN-83C7DD39C918; incident_id=INC-001; Redis marked down in fault state; refusing payment operation.
+[2026-09-03T18:04:05.832593+00:00] run_id=RUN-83C7DD39C918; incident_id=INC-001; Payment failure: Redis unavailable; latency_ms=4.74
+[2026-09-03T18:16:53.194948+00:00] run_id=RUN-6FCF7C075247; incident_id=INC-001; Payment service started on 127.0.0.1:8002
+[2026-09-03T18:16:53.606840+00:00] run_id=RUN-6FCF7C075247; incident_id=INC-001; Payment success: request_id=REQ-0000; latency_ms=8.21
+[2026-09-03T18:16:53.737989+00:00] run_id=RUN-6FCF7C075247; incident_id=INC-001; Payment success: request_id=REQ-0001; latency_ms=8.25
+[2026-09-03T18:16:55.579759+00:00] run_id=RUN-6FCF7C075247; incident_id=INC-001; Redis marked down in fault state; refusing payment operation.
+[2026-09-03T18:16:55.582146+00:00] run_id=RUN-6FCF7C075247; incident_id=INC-001; Payment failure: Redis unavailable; latency_ms=27.6
+[2026-09-03T18:16:55.711670+00:00] run_id=RUN-6FCF7C075247; incident_id=INC-001; Redis marked down in fault state; refusing payment operation.
+[2026-09-03T18:16:55.716312+00:00] run_id=RUN-6FCF7C075247; incident_id=INC-001; Payment failure: Redis unavailable; latency_ms=7.63
+[2026-09-03T18:16:55.833700+00:00] run_id=RUN-6FCF7C075247; incident_id=INC-001; Redis marked down in fault state; refusing payment operation.
+[2026-09-03T18:16:55.835792+00:00] run_id=RUN-6FCF7C075247; incident_id=INC-001; Payment failure: Redis unavailable; latency_ms=2.84
+[2026-09-03T18:16:55.956570+00:00] run_id=RUN-6FCF7C075247; incident_id=INC-001; Redis marked down in fault state; refusing payment operation.
+[2026-09-03T18:16:55.959496+00:00] run_id=RUN-6FCF7C075247; incident_id=INC-001; Payment failure: Redis unavailable; latency_ms=3.99

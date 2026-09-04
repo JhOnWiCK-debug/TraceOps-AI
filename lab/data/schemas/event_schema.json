@@ -1,0 +1,11 @@
+{
+  "event_id": "string",
+  "incident_id": "string",
+  "timestamp": "ISO8601",
+  "service": "string",
+  "source_type": "redis_log|payment_log|checkout_log|alert|metric",
+  "event_type": "string",
+  "message": "string",
+  "severity": "string",
+  "metadata": {}
+}

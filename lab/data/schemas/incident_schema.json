@@ -1,0 +1,19 @@
+{
+  "incident_id": "string",
+  "title": "string",
+  "start_time": "ISO8601",
+  "end_time": "ISO8601",
+  "root_cause": "string",
+  "affected_services": ["string"],
+  "remediation": "string",
+  "status": "string",
+  "environment": "string",
+  "evidence": ["string"],
+  "timeline": ["string"],
+  "ground_truth": {
+    "fault_type": "string",
+    "true_failure_mode": "string",
+    "expected_evidence": ["string"],
+    "expected_order": ["string"]
+  }
+}
